@@ -67,6 +67,6 @@ for stocks in total_data[0:4]:
    stock market data source is : moneycontrol.com
 
 
-   submitted by : team-> yuvrajjwala
+   submitted by : yuvrajjwala
 """
 
